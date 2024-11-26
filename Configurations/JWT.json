@@ -1,0 +1,9 @@
+{
+  "JWTSettings": {
+    "Issuer": "o9U69qDni3+qBAGxIyd1dymwPXd/S4NNoXr/3FD0eHQsEdD8JGn8PQIJyoDl3Wui4ndsW9iIfAVikVfwcWa7vfPVZwvxiK9p+eU9La/l54Q=",
+    "Audience": "v5VyxemZUQpPOz0FbiCrPLV5fB6pviBbjZKo1cT6BWyiCUyQcGEkjjTFnlJiS71J3DumUtM2iPgKXrW9XgH+dB5U3AYhlE2FVED56VdLKNU=",
+    "Key": "lbDJN5198qNf2cmD5SAEvF/nYqt7iqOGf2by5vB0lKz2A30qIHnzV/43zJA6w+HJh/k5+9ziJb088mtleMJFep+0e5UL6iMxi1vmZbpxVH0rwVwa9StxDOfI4sfrcqJNv6sydkUzMbiLeUHrYlx6CF++ksWeXiKKoaUzYqu1rIM=",
+    "TokenExpirationInMinutes": 10,
+    "RefreshTokenExpirationInDays": 7
+  }
+}

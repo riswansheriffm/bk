@@ -1,0 +1,11 @@
+{
+  "DatabaseSettings": {
+
+    "ConnectionString": "1MZ7YVpwWbP7ASrFxnhqkEvtgxsHNfxpK+vTzOjwEE5SY8DKnMcH+nY8C28Kdd/y4yDIZTA+YP/tIXb5kZRfGnrmJU5faapPAxSklFu3FBz4rHfX8gU2oOIg++D6CDMB",
+
+    //"ConnectionString": "Server=localhost;Database=numbersense;User Id=sa;Password=Softech"
+
+    //"ConnectionString": "flMvsKyINP18qsrgvh7c544iOUgMUos+LUUO2yiEYebqy78/4OenCve9OhTQrMcVx5YOZXmxzvqPlOk9EHYnXRQO1e1Q7BlKbGdyTWVP3z9dBqFGPQqJfndFOeRn3bkGrUEYIymded64z7OiGE6r0A=="
+
+  }
+}
